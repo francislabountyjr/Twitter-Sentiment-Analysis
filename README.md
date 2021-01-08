@@ -1,4 +1,4 @@
-﻿# Twitter Sentiment Analysis Instructions
+﻿# Twitter Sentiment Analysis Dash App Instructions
  
 Create a folder called 'assets' and then put tokenizer.json, tokenizer_config.json, and vocab.txt inside.
 
