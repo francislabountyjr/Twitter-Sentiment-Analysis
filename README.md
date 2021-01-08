@@ -18,3 +18,5 @@ pipenv shell
 python run.py
 
 Then navigate to http://localhost:8050/ to view your app.
+
+BERTGRUSentiment.ipynb is a jupyter notebook that I used for constructing the code to train and evaluate the BERT-GRU model.
