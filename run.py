@@ -128,8 +128,9 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     #Set up tweepy API access for Twitter search functionality
-    consumer_key="gu0ys1YQFC7eCyNFli5FjPZS4"
-    consumer_secret="7gHLSw0uxnqh2xEFcIrwMBAq2npkzbGblbyiyV2htc9Ivtayro"
+    #You fill in with your keys
+    consumer_key=""
+    consumer_secret=""
     auth = AppAuthHandler(consumer_key, consumer_secret)
     auth_api = API(auth)
 
